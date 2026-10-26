@@ -144,7 +144,7 @@ Some features that could be added in future versions include:
 
 ## Author
 
-**Dinesh Karri**
+**Dinesh Karri And Charan** 
 
 Project: LiftOS — Elevator Scheduling Simulator
 
